@@ -3,7 +3,9 @@ Final Score: 56/66
 
 ***
 
-Quiz Corrections: <br>
+Quiz Corrections: 
+
+
 | Question # | Topic | Skills | My Answer | Correct Answer | Explanation |
 |---|---|---|---|---|---|
 | 16 | 8.2 | 4.B | B | C | My answer was incorrect because the syntax for traversing an array list was wrong. Instead of doing the for loop for the columns and then the rows, I did the for loop for the columns only. I needed to include the rows because it was a two-dimensional array. This question tells me that I need to get better are memorizing syntax for Arraylists.  |
